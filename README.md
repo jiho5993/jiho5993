@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jiho5993)](https://solved.ac/jiho5993)
+
 <!--
 **jiho5993/jiho5993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
